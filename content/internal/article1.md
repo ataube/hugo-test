@@ -1,7 +1,10 @@
 ---
-title: "Article 1"
+title: "FAQ"
 date: 2019-12-19T12:23:00
-layout: "internal"
+menu:
+  main:
+    title: "FAQ"
+    weight: 20
 ---
 
 ## About
